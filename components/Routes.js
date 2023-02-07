@@ -14,8 +14,8 @@ export const Routes = [
     icon: <Dashboard />,
   },
   {
-    path: "/request-order",
-    menu: "Request Order",
+    path: "/LearningPage",
+    menu: "Learning Page",
     icon: <ListAlt />,
   },
   // {
